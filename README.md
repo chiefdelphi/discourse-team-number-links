@@ -1,5 +1,5 @@
-# TBA Team Number
-Adds a clickable TBA team number in a user's profile via a Discourse plugin.
+# Team Number Links
+Adds a clickable team numbers in a user's profile via a Discourse plugin for FRC (TBA), FTC (TOA), and VRC (RE) team numbers.
 
 This functionality is currently added by inserting custom CSS and JavaScript on each theme, as seen below:
 
