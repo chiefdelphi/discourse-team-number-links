@@ -1,0 +1,4 @@
+plugins:
+  discourse_team_number_links_enabled:
+    default: true
+    client: true
